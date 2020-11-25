@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Anmol, a developer.
 
 <!--
 **anmolsahu2k/anmolsahu2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=anmolsahu2k)](https://github.com/anmolsahu2k/github-readme-stats)
+[![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=anmolsahu2k&hide=stars&count_private=true&theme=radical&show_icons=true)]
