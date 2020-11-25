@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=anmolsahu2k&hide=stars&count_private=true&theme=radical&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolsahu2k)]
