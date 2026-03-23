@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=anmolsahu2k&hide=stars&count_private=true&theme=radical&show_icons=true)
+![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=anmolsahu2k&hide=stars&count_private=true&theme=radical&show_icons=true&commits_year=2026)
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=anmolsahu2k&layout=compact&theme=radical)
